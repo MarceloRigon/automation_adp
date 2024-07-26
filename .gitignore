@@ -1,0 +1,7 @@
+# Node Dependency
+/node_modules
+
+# Cypress files and folders
+/cypress/screenshots
+/cypress/videos
+/cypress/reports

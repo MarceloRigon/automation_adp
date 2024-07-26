@@ -1,0 +1,18 @@
+{
+  "name": "adp",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open:chrome": "cypress open",
+    "cypress:open:qa": "cypress open --config-file qa.config.js",
+    "cypress:open:prod": "cypress open --config-file prod.config.js",
+
+    "cy:run:chrome": "cypress run",
+    "cypress:run:qa": "cypress run --config-file qa.config.js",
+    "cypress:run:prod": "cypress run --config-file prod.config.js"
+  },
+    
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
