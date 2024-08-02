@@ -22,7 +22,7 @@ Start NodeJs
 ```
 Cloning the repository
 ```bash
-  git clone https://github.com/MarceloRigon/automation_adp.git
+  git clone https://github.com/MarceloRigon/automation_orangehrm.git
 ```
 
 ## Run the tests
