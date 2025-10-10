@@ -1,7 +1,7 @@
 
 # Automation OrangeHRM
 
-Project created to automate the login system, candidate profile creation and candidate profile editing of the OrangeHRM system
+Project created to automate the login system, candidate profile creation and candidate profile editing of the OrangeHRM system.
 ## Reference for project creation
 
  - [Official documentation from Cypress](https://docs.cypress.io/guides/overview/why-cypress)
